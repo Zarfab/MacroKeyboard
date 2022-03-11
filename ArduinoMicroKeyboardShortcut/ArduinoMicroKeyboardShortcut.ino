@@ -3,12 +3,6 @@
 #include "KeyboardMacro.h"
 
 
-
-// TODO : 
-// [X] Parallel inputs readings
-// [X] Filter inputs
-// [ ] Add more shortcuts
-
 #define NB_MACROS 15
 
 KeyboardMacro macros[NB_MACROS] = {
